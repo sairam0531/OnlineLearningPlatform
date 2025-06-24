@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-cover bg-center min-h-screen;
+  background-image: url('https://source.unsplash.com/1600x900/?classroom,elearning');
+}
+
